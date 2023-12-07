@@ -3,7 +3,7 @@
 
 //project requires 4 variable to assign to final message, object below reflects this
 const fantasyVariables = {
-    mood: ['guilty', 'excited', 'heart broken', 'juicy', 'slick', 'run of the mill'],
+    mood: ['guilty', 'excited', 'heart broken', 'juicy', 'slick', 'run of the mill', 'horny'],
     creature: ['Wizard', 'High Elf', 'Gnome', 'NPC', 'Sound Guy', 'Aspriring Dark Lord'],
     landFrom: ['Albaratata', 'the Mountain Home', 'Sky City', 'another planet', 'a pocket dimention', 'a long long since forgotten'],
     treasure: ['a coinpurse who took you last shilling', 'a magical dagger that will allow you to finally end your pained existence', 
